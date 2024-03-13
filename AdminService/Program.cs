@@ -7,7 +7,15 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 // Add RabbitMQ Connection Factory
-builder.Services.AddSingleton(sp => new ConnectionFactory() { HostName = "localhost" });
+builder.Services.AddSingleton(sp => 
+{
+    var config = sp.GetRequiredService<IConfiguration>();
+    var factory = new ConnectionFactory() 
+    { 
+        HostName = config.GetValue<string>("RabbitMQ:HostName") 
+    };
+    return factory;
+});
 
 // Add ProductUpdateService
 builder.Services.AddSingleton<ProductUpdateService>();

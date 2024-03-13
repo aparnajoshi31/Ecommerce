@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prince Raj\\Desktop\\dotnet project\\Ecommerce\\AdminService\\AdminService.csproj": {}
+    "/home/prince/Desktop/futuresoft project/Ecommerce/AdminService/AdminService.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prince Raj\\Desktop\\dotnet project\\Ecommerce\\AdminService\\AdminService.csproj": {
+    "/home/prince/Desktop/futuresoft project/Ecommerce/AdminService/AdminService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prince Raj\\Desktop\\dotnet project\\Ecommerce\\AdminService\\AdminService.csproj",
+        "projectUniqueName": "/home/prince/Desktop/futuresoft project/Ecommerce/AdminService/AdminService.csproj",
         "projectName": "AdminService",
-        "projectPath": "C:\\Users\\Prince Raj\\Desktop\\dotnet project\\Ecommerce\\AdminService\\AdminService.csproj",
-        "packagesPath": "C:\\Users\\Prince Raj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prince Raj\\Desktop\\dotnet project\\Ecommerce\\AdminService\\obj\\",
+        "projectPath": "/home/prince/Desktop/futuresoft project/Ecommerce/AdminService/AdminService.csproj",
+        "packagesPath": "/home/prince/.nuget/packages/",
+        "outputPath": "/home/prince/Desktop/futuresoft project/Ecommerce/AdminService/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Prince Raj\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/prince/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -46,6 +46,10 @@
               "target": "Package",
               "version": "[3.2.6, )"
             },
+            "Steeltoe.Discovery.Eureka": {
+              "target": "Package",
+              "version": "[3.2.6, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.5.0, )"
@@ -57,29 +61,10 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.27, 6.0.27]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -88,7 +73,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,3 +1,5 @@
+using Steeltoe.Discovery.Client;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -5,6 +7,9 @@ builder.Services.AddControllersWithViews();
 
 // Register the ProductDetailService
 builder.Services.AddSingleton<ProductDetailService.Services.ProductDetailProcessingService>();
+
+// Add Steeltoe Discovery Client service
+builder.Services.AddDiscoveryClient(builder.Configuration);
 
 // Add Swagger services
 builder.Services.AddSwaggerGen(c =>

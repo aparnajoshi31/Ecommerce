@@ -1,8 +1,13 @@
+using Steeltoe.Discovery.Client;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddHttpClient(); // Add this line
+
+// Add Steeltoe Discovery Client service
+builder.Services.AddDiscoveryClient(builder.Configuration);
 
 // Add Swagger services to the DI container
 builder.Services.AddSwaggerGen(c =>

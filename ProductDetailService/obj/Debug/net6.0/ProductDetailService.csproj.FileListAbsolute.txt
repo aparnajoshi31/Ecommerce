@@ -1,39 +1,84 @@
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\appsettings.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\ProductDetailService.staticwebassets.runtime.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\ProductDetailService.exe
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\ProductDetailService.deps.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\ProductDetailService.runtimeconfig.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\ProductDetailService.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\ProductDetailService.pdb
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\RabbitMQ.Client.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\bin\Debug\net6.0\System.Threading.Channels.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.csproj.AssemblyReference.cache
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.AssemblyInfoInputs.cache
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.AssemblyInfo.cs
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.csproj.CoreCompileInputs.cache
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.RazorAssemblyInfo.cache
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.RazorAssemblyInfo.cs
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets\msbuild.ProductDetailService.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductDetailService.props
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductDetailService.props
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductDetailService.props
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\scopedcss\bundle\ProductDetailService.styles.css
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\scopedcss\projectbundle\ProductDetailService.bundle.scp.css
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.csproj.CopyComplete
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\refint\ProductDetailService.dll
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.pdb
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ProductDetailService.genruntimeconfig.cache
-C:\Users\Prince Raj\Desktop\dotnet project\Ecommerce\ProductDetailService\obj\Debug\net6.0\ref\ProductDetailService.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/appsettings.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.staticwebassets.runtime.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.exe
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.deps.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.runtimeconfig.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.pdb
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/RabbitMQ.Client.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/bin/Debug/net6.0/System.Threading.Channels.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.csproj.AssemblyReference.cache
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.AssemblyInfoInputs.cache
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.AssemblyInfo.cs
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.csproj.CoreCompileInputs.cache
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.RazorAssemblyInfo.cache
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.RazorAssemblyInfo.cs
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets/msbuild.ProductDetailService.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets/msbuild.build.ProductDetailService.props
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ProductDetailService.props
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ProductDetailService.props
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/scopedcss/bundle/ProductDetailService.styles.css
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/scopedcss/projectbundle/ProductDetailService.bundle.scp.css
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.csproj.CopyComplete
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/refint/ProductDetailService.dll
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.pdb
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.genruntimeconfig.cache
+C:/Users/Prince Raj/Desktop/dotnet project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ref/ProductDetailService.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/appsettings.Development.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/appsettings.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.staticwebassets.runtime.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.deps.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.runtimeconfig.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ref/ProductDetailService.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/ProductDetailService.pdb
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/RabbitMQ.Client.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Common.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Common.Abstractions.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Common.Http.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Connector.Abstractions.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Connector.ConnectorBase.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Discovery.Abstractions.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Discovery.ClientBase.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Discovery.ClientCore.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Discovery.Eureka.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Steeltoe.Extensions.Configuration.Abstractions.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/System.Reflection.MetadataLoadContext.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/bin/Debug/net6.0/System.Threading.Channels.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.csproj.AssemblyReference.cache
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.GeneratedMSBuildEditorConfig.editorconfig
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.AssemblyInfoInputs.cache
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.AssemblyInfo.cs
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.csproj.CoreCompileInputs.cache
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.MvcApplicationPartsAssemblyInfo.cs
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.MvcApplicationPartsAssemblyInfo.cache
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.RazorAssemblyInfo.cache
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.RazorAssemblyInfo.cs
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets.build.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/staticwebassets.development.json
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/scopedcss/bundle/ProductDetailService.styles.css
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/scopedcss/projectbundle/ProductDetailService.bundle.scp.css
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.csproj.CopyComplete
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ref/ProductDetailService.dll
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.pdb
+/home/prince/Desktop/futuresoft project/Ecommerce/ProductDetailService/obj/Debug/net6.0/ProductDetailService.genruntimeconfig.cache

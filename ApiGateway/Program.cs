@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
 using Microsoft.OpenApi.Models;
+using Steeltoe.Discovery.Client;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +19,9 @@ builder.Services.AddSwaggerGen(c =>
 
 // Add Ocelot services
 builder.Services.AddOcelot(builder.Configuration);
+
+// Add Eureka Discovery Client service
+builder.Services.AddDiscoveryClient(builder.Configuration);
 
 var app = builder.Build();
 
@@ -35,6 +39,9 @@ app.UseRouting();
 
 // Use Ocelot middleware
 app.UseOcelot().Wait();
+
+// Use Eureka Discovery Client
+app.UseDiscoveryClient();
 
 var summaries = new[]
 {
